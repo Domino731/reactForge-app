@@ -8,7 +8,7 @@ declare const VERSION: string;
 console.log(`Welcome from pixi-typescript-boilerplate ${VERSION}`);
 
 const app = new Application({
-    // backgroundColor: THEME.grayFifth,
+    backgroundColor: THEME.blackFirst,
     width: DIMS.width,
     height: DIMS.height,
 });

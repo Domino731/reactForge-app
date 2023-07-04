@@ -1,1 +1,5 @@
-console.log(12);
+export class App {
+    constructor() {}
+
+    init();
+}

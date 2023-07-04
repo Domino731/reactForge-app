@@ -1,5 +1,7 @@
 export class PanelManager {
-    constructor() {}
+    constructor() {
+        this.init();
+    }
 
     init(): void {
         console.log("PanelManger created");
